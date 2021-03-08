@@ -1,0 +1,4 @@
+node_modules
+/src/user/pages/Auth_old.js
+/src/user/pages/Users_old.js
+/src/user/pages/UpdatePlace_old.js

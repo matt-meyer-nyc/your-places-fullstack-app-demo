@@ -1,0 +1,12 @@
+{
+	"env": {
+		"DB_USER": "admin",
+		"DB_PASSWORD": "4viKBP0KQbxRXDil",
+		"DB_NAME": "your_places_prod",
+		"MAPBOX_API_KEY": "pk.eyJ1IjoibWF0dGphY29iIiwiYSI6ImNraHc4ZDJiZzFheGYyeHQ5ZWJobWZ4enkifQ.mDJzPQOGvZgJFaKd-0foUQ",
+		"JWT_KEY": "supersecret_dont_share"
+	}
+}
+
+
+
